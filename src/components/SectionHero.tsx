@@ -15,7 +15,7 @@ export function SectionHero(){
           <h1 className="text-white text-6xl font-bold mb-4">Tenha seu banco na palma da mão.</h1>
           <p className="text-xl text-white max-w-[408px] mb-8">Todas as operações que você precisa em um só lugar. Simples completo e feito para você.
           </p>
-          <div className="flex gap-4 mb-16">
+          <div className="flex gap-4 mb-14">
             <button>
               <Image src={ImgAppleStore} alt="Apple Store"/>
             </button>

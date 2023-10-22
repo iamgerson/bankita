@@ -14,7 +14,7 @@ const config: Config = {
     extend: {
       colors: {
         'primary-blue': '#106EB0',
-        'primary-orange': '#FABC3C',
+        'primary-orange': '#EC7000',
         'primary-gray': '#33303E',
         'second-gray': '#4E4B59',
         'gray-phone': '#F4F4F4',
